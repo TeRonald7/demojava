@@ -1,8 +1,8 @@
 public class HelloWorld {
     public static void main(String[] args){
-        //ftftftft
+        //单行注释
         /*ggffgg
-        jij
+        多行注释
          */
         System.out.println("Hello New World");
     }
